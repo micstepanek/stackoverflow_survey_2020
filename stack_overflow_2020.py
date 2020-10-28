@@ -1,5 +1,5 @@
 # %% [markdown]
-# # Stack Overflow Developer Survey 2020 - private
+# # Stack Overflow Developer Survey 2020 - extra analysis
 
 # %%
 import pandas
